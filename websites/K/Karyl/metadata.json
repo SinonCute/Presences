@@ -1,0 +1,23 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"id": "305665547465523202",
+		"name": "sinoncute"
+	},
+	"service": "Karyl",
+	"description": {
+		"en": "Anime Streaming website for free"
+	},
+	"url": "karyl.live",
+	"regExp": "([a-z0-9-]+[.*])?(karyl(.*)?[.][a-z]+)",
+	"version": "1.0.0",
+	"logo": "https://i.imgur.com/RNPN4pi.png",
+	"thumbnail": "https://i.imgur.com/SDvTt78.png",
+	"color": "#FFB6C1",
+	"category": "anime",
+	"tags": [
+		"anime"
+	],
+	"iframe": true,
+	"iFrameRegExp": ".*"
+}
